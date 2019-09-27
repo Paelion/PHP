@@ -1,0 +1,13 @@
+{
+    "name": "glrd/procedural",
+    "authors": [
+        {
+            "name": "glrd",
+            "email": "glrd.remi@gmail.com"
+        }
+    ],
+    "require": {
+        "larapack/dd": "^1.1"
+    }
+}
+
